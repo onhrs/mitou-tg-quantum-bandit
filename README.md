@@ -6,8 +6,8 @@
 </br>
 
 ## API情報
-* APIのドキュメント : 環境移行後に公開予定
-* エントリーポイント : 環境移行後に公開予定
+* APIのドキュメント : https://mitou-tg-quantum-bandit-gmsswg5gca-an.a.run.app/docs
+* エントリーポイント : https://mitou-tg-quantum-bandit-gmsswg5gca-an.a.run.app
 
 
 
@@ -16,7 +16,8 @@
 
 
 ## 参考
-プロジェクト概要 : https://www.ipa.go.jp/jinzai/target/2022/gaiyou_yn-1.html
+プロジェクト概要 : https://www.ipa.go.jp/jinzai/mitou/target/2022/gaiyou_yn-1.html
+
 
 プロジェクト成果と詳細 : （後日掲載予定）
 
